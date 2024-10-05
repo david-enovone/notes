@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "f5b7e8a7948648bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e44b27ab5fb60508",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "148036f994f4ac35",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd924eb4c22c4f80",
+    "type": "split",
+    "children": [
+      {
+        "id": "da84669644d9f0fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c43b5afc83755ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "32dcf03f69082c60",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad20dccc2f7d0817",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fe77ece4ce51a6b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "858158ed9bcd69c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65adde87ddb4a660",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
+            }
+          },
+          {
+            "id": "dba65a00a7b9c30c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "e054e8b8bed7a6d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8ff264aa91594902",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97a4ab13054a73dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "451a77616167ffea",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "f1fcec0b74ea6aac",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "bdcd2847eba83434",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6c43b5afc83755ab",
+  "lastOpenFiles": [
+    "Start.md",
+    "Notes/Interviews",
+    "Notes/Meetings",
+    "Notes/UI Design Kickoff.md",
+    "Notes/Daily/Daily - 2024-09-11.md",
+    "Notes/Interviews/Interview w Dan.md",
+    "Research/Beluga API.md",
+    "Notes/Interviews/Interview with Slava.md",
+    "Notes/Daily/Daily - 2024-07-08.md",
+    "Archive/Notes/Untitled.md",
+    "Archive/Notes/Daily",
+    "Archive/Daily Notes",
+    "Archive",
+    "Notes/Daily/Daily - 2024-09-03.md",
+    "Project Planning/Tickets/Pharmacogenomics doctor admin widget.md",
+    "Project Planning/Board.md",
+    "Process/Git.md",
+    "Research/Beluga API Technicals.md",
+    "Process/Pull Request Process.md",
+    "Notes/Team/Dylan/2024-07-02.md",
+    "Notes/Team/Eissa/2024-07-02.md",
+    "Company Information/Technical Interview Questions.md",
+    "Development/Medications Tech Plan.md",
+    "Development/AWS Deployment.md",
+    "Development/BLP Adds.md",
+    "Notes/Daily/Daily - 2024-08-27.md",
+    "Notes/Daily/Daily - 2024-08-19.md",
+    "Notes/Daily/Daily - 2024-08-16.md",
+    "Notes/Daily/Daily - 2024-08-14.md",
+    "Notes/Daily/Daily - 2024-08-13.md",
+    "Process",
+    "Templates/Tickets",
+    "Project Planning/Tickets",
+    "Notes/Team/Eissa",
+    "Notes/Team"
+  ]
+}

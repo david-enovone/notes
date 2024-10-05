@@ -1,0 +1,44 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 18,
+    "emojiStyle": "native",
+    "iconColor": "#ededed",
+    "recentlyUsedIcons": [
+      "LiCalendar",
+      "CoNotebook",
+      "LiArchive",
+      "RiIdCardLine",
+      "FiHardDrive"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "inline",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false,
+    "lucideIconPackType": "native"
+  },
+  "Project Planning": "RiKanbanView",
+  "Company Information/Team": "CoUsersGroup",
+  "Company Information": "FiHardDrive",
+  "Company Information/Client Profile.md": "RiIdCardLine",
+  "Archive": {
+    "iconName": "LiArchive",
+    "iconColor": "#ee4636"
+  }
+}

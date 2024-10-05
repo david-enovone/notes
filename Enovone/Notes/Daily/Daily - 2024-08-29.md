@@ -1,0 +1,29 @@
+---
+prework:
+todo:
+notes:
+eodreview:
+---
+
+
+
+## Preparation
+```meta-bind
+INPUT[textArea(placeholder('Reflections, introspection, etc.')):prework]
+```
+
+## To-do list
+```meta-bind
+INPUT[list:todo]
+```
+
+## Notes
+```meta-bind
+INPUT[editor:notes]
+```
+
+## End-of-day Review
+```meta-bind
+INPUT[textArea(placeholder('Any careover, highlights, lowlights, learnings, etc.')):eodreview]
+```
+

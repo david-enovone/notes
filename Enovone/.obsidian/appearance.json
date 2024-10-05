@@ -1,0 +1,9 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "obsidian-default-theme",
+    "editor-margin",
+    "extended-colorschemes"
+  ],
+  "accentColor": ""
+}

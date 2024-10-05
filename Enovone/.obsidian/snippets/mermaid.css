@@ -1,0 +1,13 @@
+/* Change the font color for Mermaid labels */
+/* .mermaid .loopText, */
+.mermaid .loopText > tspan {
+  fill: var(--text-accent) !important;
+}
+
+.mermaid .actor {
+  /* stroke: var(--text-accent) !important; */
+}
+
+.mermaid line {
+  /* stroke: var(--text-faint) !important; */
+}
