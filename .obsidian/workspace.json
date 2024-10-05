@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd3d6ff743370211",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enovone/Notes/Updates/2024-10-04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enovone/Notes/Team/Alen/Alen 2024-07-08.md",
+                "file": "Enovone/Notes/Updates/2024-10-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enovone/Notes/Team/Alen/Alen 2024-07-08.md",
+                "file": "Enovone/Notes/Updates/2024-10-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +138,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enovone/Notes/Team/Alen/Alen 2024-07-08.md"
+                "file": "Enovone/Notes/Updates/2024-10-04.md"
               }
+            }
+          },
+          {
+            "id": "ddf9cfdb43f4dde6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4321ed76d308f800",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
             }
           }
         ]
@@ -143,13 +172,23 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
+      "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "dbdbdac1c79630ca",
+  "active": "cd3d6ff743370211",
   "lastOpenFiles": [
-    "Enovone/Notes/Team/Eissa/2024-09-05.md",
     "Enovone/Notes/UI Design Kickoff.md",
+    "Enovone/Notes/Updates/2024-10-04.md",
+    "Enovone/Notes/Updates",
+    "Enovone/Notes/Team/Alen/Alen 2024-07-08.md",
+    "Enovone/Notes/Team/Eissa/2024-09-05.md",
     "Enovone/Development/Medications Tech Plan.md",
     "Enovone/Development/AWS Deployment.md",
     "Enovone/Templates/Tickets/StandardTicket.md",
