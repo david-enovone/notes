@@ -1,8 +1,8 @@
-| Version         | 082024.0                 |
-| --------------- | ------------------------ |
-| Candidate Level | Senior Software Engineer |
-| Knowledge       | Generalist               |
-| Role            | Individual Contributor   | 
+| Version         | 082024.0                 |     |
+| --------------- | ------------------------ | --- |
+| Candidate Level | Senior Software Engineer |     |
+| Knowledge       | Generalist               |     |
+| Role            | Individual Contributor   |     |
 
 
 # Agenda

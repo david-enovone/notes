@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "60b3eee7b6fdc6c4",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "5081abae81bfda0b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Enovone/Progress Tracker/Git Commit Logs.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Enovone/Progress Tracker/Git Commit Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Enovone/Progress Tracker/Git Commit Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Enovone/Progress Tracker/Git Commit Logs.md"
+              }
             }
           },
           {
@@ -161,20 +169,28 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5081abae81bfda0b",
   "lastOpenFiles": [
+    "Enovone/Progress Tracker/Git Commit Logs.md",
+    "Enovone/Progress Tracker",
+    "Enovone/Start.md",
+    "Enovone/Templates/Daily.md",
+    "Enovone/Templates/MeetingNotes.md",
+    "Enovone/Templates/Tickets/StandardTicket.md",
+    "Enovone/Process/Pull Request Process.md",
+    "Enovone/Process/Git.md",
+    "Enovone/Development/AWS Deployment.md",
+    "Enovone/Company Information/Client Profile.md",
+    "Enovone/Interview Formats/Technical Interview Questions.md",
+    "Enovone/Interview Formats",
+    "Enovone/Interview Formats/Technical Screening.md",
+    "Enovone/Development/BLP Adds.md",
+    "Enovone/Development/Medications Tech Plan.md",
     "Enovone/Notes/Updates/2024-10-04.md",
     "Enovone/Notes/UI Design Kickoff.md",
     "Enovone/Notes/Updates",
     "Enovone/Notes/Team/Alen/Alen 2024-07-08.md",
     "Enovone/Notes/Team/Eissa/2024-09-05.md",
-    "Enovone/Development/Medications Tech Plan.md",
-    "Enovone/Development/AWS Deployment.md",
-    "Enovone/Templates/Tickets/StandardTicket.md",
-    "Enovone/Templates/Daily.md",
-    "Enovone/Start.md",
-    "Enovone/Process/Git.md",
-    "Enovone/Process/Pull Request Process.md",
     "Enovone/Research/Beluga API.md",
     "Enovone/Research/Beluga API Technicals.md"
   ]
