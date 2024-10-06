@@ -1,38 +1,21 @@
 {
   "main": {
-    "id": "78c16cf1b1d5a0e7",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "b823573bc5526051",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "dbdbdac1c79630ca",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enovone/Notes/Team/Alen/Alen 2024-07-08.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd3d6ff743370211",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enovone/Notes/Updates/2024-10-04.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enovone/Notes/Updates/2024-10-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enovone/Notes/Updates/2024-10-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Enovone/Notes/Updates/2024-10-04.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,10 +161,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "cd3d6ff743370211",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Enovone/Notes/UI Design Kickoff.md",
     "Enovone/Notes/Updates/2024-10-04.md",
+    "Enovone/Notes/UI Design Kickoff.md",
     "Enovone/Notes/Updates",
     "Enovone/Notes/Team/Alen/Alen 2024-07-08.md",
     "Enovone/Notes/Team/Eissa/2024-09-05.md",
