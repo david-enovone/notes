@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "60b3eee7b6fdc6c4",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "5081abae81bfda0b",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enovone/Progress Tracker/Git Commit Logs.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enovone/Progress Tracker/Git Commit Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enovone/Progress Tracker/Git Commit Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Enovone/Progress Tracker/Git Commit Logs.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,7 +161,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "5081abae81bfda0b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Enovone/Progress Tracker/Git Commit Logs.md",
     "Enovone/Progress Tracker",
