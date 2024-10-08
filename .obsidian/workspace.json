@@ -11,8 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Enovone/Notes/Team/Slava/2024-10-07.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Enovone/Notes/Team/Slava/2024-10-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Enovone/Notes/Team/Slava/2024-10-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Enovone/Notes/Team/Slava/2024-10-07.md"
+              }
             }
           },
           {
@@ -137,12 +145,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 361.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,8 +169,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ddf9cfdb43f4dde6",
   "lastOpenFiles": [
+    "Enovone/Notes/Team/Slava/2024-10-07.md",
+    "Untitled.md",
+    "Archive/Daily Notes",
+    "Archive",
+    "Enovone/Notes/Team/Untitled.md",
+    "Enovone/Notes/Team/Slava",
     "Enovone/Notes/Updates/2024-10-07.md",
     "Enovone/Notes/Updates/2024-10-04.md",
     "Enovone/Progress Tracker/Git Commit Logs.md",

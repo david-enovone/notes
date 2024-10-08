@@ -1,0 +1,11 @@
+{
+  "archiveConfigs": [
+    {
+      "sourceFolder": "Enovone/Notes/Daily",
+      "destFolder": "Archive/Daily Notes",
+      "maintainFolderStructure": true,
+      "deleteEmptyFolders": true,
+      "days": 30
+    }
+  ]
+}
