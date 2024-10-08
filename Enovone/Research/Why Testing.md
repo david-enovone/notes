@@ -25,4 +25,13 @@
 - No time to test
 	- If we have limited time already, then the value we get out of adding additional testing has exponential return value
 - High risk
-	- as a small team in a startup, we're risking a lot already - adding in the risk of zero 
+	- as a small team startup, we're risking a lot already - adding in the risk of zero or no test coverage only adds to that risk
+- Dev time is valuable 
+	- Developer time is valuable, so we should get the most value from that time -- instead of hunting down weird edgecases or trying to discover why product is having trouble with one thing or another -- developers can focus on making new features, not on debugging or fixing problems
+		- Each time a developer is pulled away from their work to assist with a bug costs more than just writing a test to prevent it from occuring in the first place
+- The TDD paradigm forces us to write code different
+	- Writing testable code forces us to write smaller, more concise, testable code.
+	- This increases the value of our code in the long term
+	- This means if we pivot, we'll need to touch less massive functions and instead only update the functions that need it
+	- And we'll have tests to show that the pivot worked and we can push to prod without worrying / testing everything from scratch
+
