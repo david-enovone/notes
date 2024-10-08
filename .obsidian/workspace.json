@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enovone/Notes/Team/Slava/2024-10-07.md",
+                "file": "Enovone/Research/Why Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enovone/Notes/Team/Slava/2024-10-07.md",
+                "file": "Enovone/Research/Why Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enovone/Notes/Team/Slava/2024-10-07.md",
+                "file": "Enovone/Research/Why Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enovone/Notes/Team/Slava/2024-10-07.md"
+                "file": "Enovone/Research/Why Testing.md"
               }
             }
           },
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 361.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,9 +170,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "ddf9cfdb43f4dde6",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Enovone/Notes/Team/Slava/2024-10-07.md",
+    "Enovone/Research/Why Testing.md",
     "Untitled.md",
     "Archive/Daily Notes",
     "Archive",
