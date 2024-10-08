@@ -7,6 +7,8 @@
 - Fixing tests means I'm slower to release
 - Having to learn new testing framework is something extra that isn't working on new features
 - If I test my work before I ship it, why would I need automated tests?
+- Devs should be trusted to write good code that doesn't break
+
 
 
 ## Value of Testing
@@ -18,4 +20,9 @@
 - Lower costs
 	- Lowers the cost of testing/QA work
 	- Lowers the cost of maintenance of the code (less bugs get to prod)
-	- 
+
+### Value for small teams
+- No time to test
+	- If we have limited time already, then the value we get out of adding additional testing has exponential return value
+- High risk
+	- as a small team in a startup, we're risking a lot already - adding in the risk of zero 
