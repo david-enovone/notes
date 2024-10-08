@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enovone/Progress Tracker/Git Commit Logs.md",
+                "file": "Enovone/Notes/Updates/2024-10-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enovone/Progress Tracker/Git Commit Logs.md",
+                "file": "Enovone/Notes/Updates/2024-10-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enovone/Progress Tracker/Git Commit Logs.md",
+                "file": "Enovone/Notes/Updates/2024-10-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enovone/Progress Tracker/Git Commit Logs.md"
+                "file": "Enovone/Notes/Updates/2024-10-07.md"
               }
             }
           },
@@ -171,6 +171,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Enovone/Notes/Updates/2024-10-04.md",
+    "Enovone/Notes/Updates/2024-10-07.md",
     "Enovone/Progress Tracker/Git Commit Logs.md",
     "Enovone/Progress Tracker",
     "Enovone/Start.md",
@@ -186,7 +188,6 @@
     "Enovone/Interview Formats/Technical Screening.md",
     "Enovone/Development/BLP Adds.md",
     "Enovone/Development/Medications Tech Plan.md",
-    "Enovone/Notes/Updates/2024-10-04.md",
     "Enovone/Notes/UI Design Kickoff.md",
     "Enovone/Notes/Updates",
     "Enovone/Notes/Team/Alen/Alen 2024-07-08.md",
