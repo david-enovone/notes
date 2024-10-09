@@ -9,10 +9,7 @@ Screen Readers
 - No explicit requirement 
 - Visual implicitly via from 
 - Frameworks that have built could help to bridge gap to design
-
-
 - Get shortlist of component libraries to share, designers can pick
-
 
 
 Feedback & Feelings
