@@ -5,4 +5,10 @@ Feedback received was:
 > Chantal has plans for templated surveys please connect with her and establish a plan: by when and how do we get there.
 
 
+# Discovery
+## Unknowns
+- Where is the logic for how weights are supposed to work documented?
+	- This seems like a core business use, we should stipulate it somewhere.
 
+## Observations
+Looks like this is iteration is inspired by a few different open source examples of surveys, and follows some version of a Builder. 
