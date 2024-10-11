@@ -9,6 +9,8 @@ Feedback received was:
 ## Unknowns
 - Where is the logic for how weights are supposed to work documented?
 	- This seems like a core business use, we should stipulate it somewhere.
-
+When the weights total up and meet a threshold, this places you into a group/label
+ 
 ## Observations
 Looks like this is iteration is inspired by a few different open source examples of surveys, and follows some version of a Builder. 
+
