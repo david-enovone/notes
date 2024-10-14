@@ -11,12 +11,8 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enovone/Notes/Updates/2024-10-14.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enovone/Notes/Updates/2024-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enovone/Notes/Updates/2024-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Enovone/Notes/Updates/2024-10-14.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,8 +164,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Enovone/Notes/Updates/2024-10-11.md",
+    "Enovone/Notes/Team/Alen/Alen - 2024-10-14.md",
     "Enovone/Notes/Updates/2024-10-14.md",
+    "Enovone/Notes/Updates/2024-10-11.md",
+    "Enovone/Notes/Updates/2024-10-04.md",
+    "Enovone/Templates/Tickets/StandardTicket.md",
+    "Enovone/Project Planning/Board.md",
+    "Enovone/Progress Tracker/Git Commit Logs.md",
     "Enovone/Notes/Updates/2024-10-10.md",
     "Enovone/Development/Questionnaire - Enhancements.md",
     "Enovone/Notes/Updates/2024-10-09.md",
@@ -190,20 +187,15 @@
     "Archive",
     "Enovone/Notes/Team/Untitled.md",
     "Enovone/Notes/Team/Slava",
-    "Enovone/Notes/Updates/2024-10-04.md",
-    "Enovone/Progress Tracker/Git Commit Logs.md",
     "Enovone/Progress Tracker",
     "Enovone/Start.md",
     "Enovone/Templates/Daily.md",
     "Enovone/Templates/MeetingNotes.md",
-    "Enovone/Templates/Tickets/StandardTicket.md",
     "Enovone/Process/Pull Request Process.md",
     "Enovone/Process/Git.md",
     "Enovone/Development/AWS Deployment.md",
     "Enovone/Company Information/Client Profile.md",
-    "Enovone/Interview Formats/Technical Interview Questions.md",
     "Enovone/Interview Formats",
-    "Enovone/Interview Formats/Technical Screening.md",
     "Enovone/Notes/Updates"
   ]
 }

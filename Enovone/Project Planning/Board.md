@@ -6,8 +6,6 @@ kanban-plugin: board
 
 ## Inbox
 
-- [ ] Push to heroku on monday after review
-- [ ] Create pgsql dump command from pod to s3.
 - [ ] Draft SBA Plan
 	
 	Blocked by domain knowledge gathering. 
@@ -36,8 +34,6 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] [[Pharmacogenomics doctor admin widget]]
-	@{Daily - 2024-07-12}
 
 
 ## Blocked
@@ -47,6 +43,8 @@ kanban-plugin: board
 ## Done
 
 **Complete**
+- [x] [[Pharmacogenomics doctor admin widget]] ✅ 2024-10-14
+	@{Daily - 2024-07-12}
 - [x] Mapping relationships w/ Static Analysis tools ✅ 2024-08-19
 	
 	Update:
