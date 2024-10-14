@@ -2,6 +2,7 @@ Take aways:
 - Easier to adopt the frontend to the what the backend system generates
 - Build an example of how I want the data to be structured, and then collaborate to make sure the frontend will work, iterate, and then roll out
 
+webhook example:
 ```js
 require("dotenv").config();  
 const express = require("express");  
@@ -119,6 +120,8 @@ app.listen(3000, () => {
 });
 ```
 
+
+Modify obj:
 ```python
 import requests  
 import os  
