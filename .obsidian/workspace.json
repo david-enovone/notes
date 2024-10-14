@@ -11,12 +11,8 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enovone/Notes/Updates/2024-10-11.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enovone/Notes/Updates/2024-10-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enovone/Notes/Updates/2024-10-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Enovone/Notes/Updates/2024-10-11.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,8 +164,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Enovone/Notes/Updates/2024-10-10.md",
     "Enovone/Notes/Updates/2024-10-11.md",
+    "Enovone/Notes/Updates/2024-10-10.md",
     "Enovone/Development/Questionnaire - Enhancements.md",
     "Enovone/Notes/Updates/2024-10-09.md",
     "Enovone/Notes/Meetings/Tech Status Meeting.md",
