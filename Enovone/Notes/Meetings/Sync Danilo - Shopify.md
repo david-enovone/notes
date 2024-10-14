@@ -7,7 +7,8 @@ require("dotenv").config();
 const express = require("express");  
 const crypto = require("crypto");  
 const axios = require("axios");  
-const bodyParser = require("body-parser");const app = express();  
+const bodyParser = require("body-parser");
+const app = express();  
 const SHOPIFY_SECRET = process.env.SHOPIFY_SECRET;  
 const SHOPIFY_ACCESS_TOKEN = process.env.SHOPIFY_ACCESS_TOKEN;  
 const SHOPIFY_SECRET_HOOK = process.env.SHOPIFY_SECRET_HOOK;app.use(  
