@@ -118,3 +118,53 @@ app.listen(3000, () => {
   console.log("Server is running on port 3000");  
 });
 ```
+
+```python
+import requests  
+import os  
+from dotenv import load_dotenv  
+import logging  
+# Set up logging  
+logging.basicConfig(level=logging.INFO)  
+logger = logging.getLogger(name)  
+# Load environment variables from .env file  
+load_dotenv()  
+# Shopify store and access token from environment variables  
+SHOPIFY_STORE = os.getenv("SHOPIFY_STORE")  
+ACCESS_TOKEN = os.getenv("ACCESS_TOKEN")  
+# Debugging: Print environment variables safely  
+if not SHOPIFY_STORE or not ACCESS_TOKEN:  
+    logger.error("Environment variables not set properly!")  
+    raise ValueError("Environment variables not set properly!")  
+customer_id = 8375675158862  # Example customer ID  
+# Add a metafield to the customer  
+try:  
+    logger.info(f"Adding metafield to customer {customer_id}")  
+    # URL for the metafield POST request for a customer  
+    url = f"{SHOPIFY_STORE}/admin/api/2024-07/customers/{customer_id}/metafields.json"  
+    # Metafield data  
+    metafield_data = {  
+        "metafield": {  
+            "namespace": "custom",  
+            "key": "test_metafield",  
+            "value": "New value",  
+            "type": "string"  
+        }  
+    }  
+    # Set headers for the API request  
+    headers = {  
+        "X-Shopify-Access-Token": ACCESS_TOKEN,  
+        "Content-Type": "application/json"  
+    }  
+    # Send POST request to add metafield to customer  
+    response = requests.post(url, json=metafield_data, headers=headers)  
+    # Check if the request was successful  
+    if response.status_code == 201:  
+        logger.info("Metafield added successfully!")  
+        logger.debug(response.json())  # Output the response for verification (only in debug mode)  
+    else:  
+        logger.error(f"Failed to add metafield. Status code: {response.status_code}")  
+        logger.error(response.text)  
+except Exception as e:  
+    logger.error(f"An error occurred: {e}")
+```
