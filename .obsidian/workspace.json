@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "ef11e25a48ae034f",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "98eaa86dbdfa2239",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enovone/Notes/Meetings/Sync on precision supplement insights.md",
+                "file": "Enovone/Development/Tech Spec - Shopify Metaobject.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enovone/Notes/Meetings/Sync on precision supplement insights.md",
+                "file": "Enovone/Development/Tech Spec - Shopify Metaobject.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enovone/Notes/Meetings/Sync on precision supplement insights.md",
+                "file": "Enovone/Development/Tech Spec - Shopify Metaobject.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enovone/Notes/Meetings/Sync on precision supplement insights.md"
+                "file": "Enovone/Development/Tech Spec - Shopify Metaobject.md"
               }
             }
           },
@@ -170,12 +170,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "98eaa86dbdfa2239",
   "lastOpenFiles": [
+    "Enovone/Development/Tech Spec - Shopify Metaobject.md",
+    "Enovone/Notes/Meetings/Sync on precision supplement insights.md",
     "Enovone/Notes/Meetings/Tech Status Meeting.md",
     "Enovone/Notes/Meetings/Feedback Sync.md",
     "Enovone/Notes/Meetings/Sync Danilo - Shopify.md",
-    "Enovone/Notes/Meetings/Sync on precision supplement insights.md",
     "Enovone/Notes/Meetings/UI Design Kickoff.md",
     "Enovone/Development/AWS Deployment.md",
     "Enovone/Development/BLP Adds.md",
@@ -202,7 +203,6 @@
     "Enovone/Notes/Team/Slava",
     "Enovone/Progress Tracker",
     "Enovone/Start.md",
-    "Enovone/Templates/Daily.md",
     "Enovone/Interview Formats",
     "Enovone/Notes/Updates"
   ]
