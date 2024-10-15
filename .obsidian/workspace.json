@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enovone/Notes/Updates/2024-10-14.md",
+                "file": "Enovone/Notes/Meetings/Sync Danilo - Shopify.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3d5917667b22075a",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enovone/Notes/Updates/2024-10-14.md",
+                "file": "Enovone/Notes/Meetings/Sync Danilo - Shopify.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enovone/Notes/Updates/2024-10-14.md",
+                "file": "Enovone/Notes/Meetings/Sync Danilo - Shopify.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enovone/Notes/Updates/2024-10-14.md"
+                "file": "Enovone/Notes/Meetings/Sync Danilo - Shopify.md"
               }
             }
           },
@@ -172,6 +173,8 @@
   },
   "active": "98eaa86dbdfa2239",
   "lastOpenFiles": [
+    "Enovone/Notes/Meetings/Tech Status Meeting.md",
+    "Enovone/Notes/Updates/2024-10-14.md",
     "Enovone/Notes/Meetings/UI Design Kickoff.md",
     "Enovone/Notes/Meetings/Sync Danilo - Shopify.md",
     "Enovone/Development/AWS Deployment.md",
@@ -180,10 +183,8 @@
     "Enovone/Development/Questionnaire - Enhancements.md",
     "Enovone/Development/Tech Spec - Shopify Metaobject.md",
     "Enovone/Notes/Meetings/Sync on precision supplement insights.md",
-    "Enovone/Notes/Meetings/Tech Status Meeting.md",
     "Enovone/Notes/Meetings/Feedback Sync.md",
     "Enovone/Notes/Team/Alen/Alen - 2024-10-14.md",
-    "Enovone/Notes/Updates/2024-10-14.md",
     "Enovone/Notes/Updates/2024-10-11.md",
     "Enovone/Notes/Updates/2024-10-04.md",
     "Enovone/Templates/Tickets/StandardTicket.md",
