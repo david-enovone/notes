@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enovone/Notes/Meetings/Sync Danilo - Shopify.md",
+                "file": "Enovone/Notes/Meetings/Sync on precision supplement insights.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enovone/Notes/Meetings/Sync Danilo - Shopify.md",
+                "file": "Enovone/Notes/Meetings/Sync on precision supplement insights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enovone/Notes/Meetings/Sync Danilo - Shopify.md",
+                "file": "Enovone/Notes/Meetings/Sync on precision supplement insights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enovone/Notes/Meetings/Sync Danilo - Shopify.md"
+                "file": "Enovone/Notes/Meetings/Sync on precision supplement insights.md"
               }
             }
           },
@@ -172,8 +172,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Enovone/Notes/Meetings/Sync on precision supplement insights.md",
+    "Enovone/Notes/Meetings/Tech Status Meeting.md",
+    "Enovone/Notes/Meetings/Feedback Sync.md",
     "Enovone/Notes/Meetings/Sync Danilo - Shopify.md",
+    "Enovone/Notes/Meetings/Sync on precision supplement insights.md",
+    "Enovone/Notes/Meetings/UI Design Kickoff.md",
+    "Enovone/Development/AWS Deployment.md",
+    "Enovone/Development/BLP Adds.md",
+    "Enovone/Development/Medications Tech Plan.md",
+    "Enovone/Development/Questionnaire - Enhancements.md",
     "Enovone/Notes/Team/Alen/Alen - 2024-10-14.md",
     "Enovone/Notes/Updates/2024-10-14.md",
     "Enovone/Notes/Updates/2024-10-11.md",
@@ -182,13 +189,9 @@
     "Enovone/Project Planning/Board.md",
     "Enovone/Progress Tracker/Git Commit Logs.md",
     "Enovone/Notes/Updates/2024-10-10.md",
-    "Enovone/Development/Questionnaire - Enhancements.md",
     "Enovone/Notes/Updates/2024-10-09.md",
-    "Enovone/Notes/Meetings/Tech Status Meeting.md",
     "Enovone/Notes/Updates/2024-10-08.md",
     "Enovone/Notes/Updates/2024-10-07.md",
-    "Enovone/Notes/Meetings/UI Design Kickoff.md",
-    "Enovone/Notes/Meetings/Feedback Sync.md",
     "Untitled.md",
     "Enovone/Notes/Meetings",
     "Enovone/Research/Why Testing.md",
@@ -200,9 +203,6 @@
     "Enovone/Progress Tracker",
     "Enovone/Start.md",
     "Enovone/Templates/Daily.md",
-    "Enovone/Templates/MeetingNotes.md",
-    "Enovone/Process/Pull Request Process.md",
-    "Enovone/Process/Git.md",
     "Enovone/Interview Formats",
     "Enovone/Notes/Updates"
   ]
