@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enovone/Notes/Updates/2024-10-15.md",
+                "file": "Enovone/Notes/Updates/2024-10-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enovone/Notes/Updates/2024-10-15.md",
+                "file": "Enovone/Notes/Updates/2024-10-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enovone/Notes/Updates/2024-10-15.md",
+                "file": "Enovone/Notes/Updates/2024-10-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enovone/Notes/Updates/2024-10-15.md"
+                "file": "Enovone/Notes/Updates/2024-10-16.md"
               }
             }
           },
@@ -172,8 +172,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Enovone/Notes/Updates/2024-10-14.md",
     "Enovone/Notes/Updates/2024-10-15.md",
+    "Enovone/Notes/Updates/2024-10-16.md",
+    "Enovone/Notes/Updates/2024-10-14.md",
     "Enovone/Notes/Meetings/Sync Danilo - Shopify.md",
     "Enovone/Notes/Meetings/Tech Status Meeting.md",
     "Enovone/Notes/Meetings/UI Design Kickoff.md",
@@ -200,7 +201,6 @@
     "Enovone/Notes/Team/Slava/2024-10-07.md",
     "Archive/Daily Notes",
     "Archive",
-    "Enovone/Notes/Team/Untitled.md",
     "Enovone/Notes/Team/Slava",
     "Enovone/Progress Tracker",
     "Enovone/Interview Formats",
