@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Enovone/Notes/Meetings/Sync Danilo - Shopify.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Sync Danilo - Shopify"
             }
           }
         ]
@@ -184,10 +188,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Enovone/Development/BLP Adds.md",
+    "Enovone/Development/Medications Tech Plan.md",
+    "Enovone/Development/Questionnaire - Enhancements.md",
+    "Enovone/Development/Tech Spec - Shopify Metaobject.md",
     "Enovone/Notes/Meetings/Sync Danilo - Shopify.md",
     "Enovone/Templates/MeetingNotes.md",
     "Enovone/Templates/Tickets/StandardTicket.md",
-    "Enovone/Development/Tech Spec - Shopify Metaobject.md",
     "Enovone/Research/HIPAA/PHI Markers.md",
     "Enovone/Research/HIPAA",
     "Enovone/Notes/Updates/2024-10-16.md",
@@ -196,9 +203,6 @@
     "Enovone/Notes/Meetings/Tech Status Meeting.md",
     "Enovone/Notes/Meetings/UI Design Kickoff.md",
     "Enovone/Development/AWS Deployment.md",
-    "Enovone/Development/BLP Adds.md",
-    "Enovone/Development/Medications Tech Plan.md",
-    "Enovone/Development/Questionnaire - Enhancements.md",
     "Enovone/Notes/Meetings/Sync on precision supplement insights.md",
     "Enovone/Notes/Meetings/Feedback Sync.md",
     "Enovone/Notes/Team/Alen/Alen - 2024-10-14.md",
