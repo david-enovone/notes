@@ -1,0 +1,3 @@
+ > In preparation of our meeting - this is what I will want to talk about: I am working on a roadmap for tomorrow of breaking down dev tasks that could benefit all product lines. From a meeting with Dylan Ben and Mandi on friday - it became obvious that 1. if we don’t work on the reporting processes (making it automated and fast), the bottle neck will increase no matter what.. 2. tracking and traceability of the users - so that if things stop we know where they are and what s going on and we can create actions or improvement that will help them complete their journey. ..and any other crucial development tasks that would be beneficial for everyone.. I have a few in mind..
+
+
