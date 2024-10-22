@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enovone/Notes/Meetings/Chantal Sync - 2024-10-21.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Chantal Sync - 2024-10-21"
+              "title": "New tab"
             }
           }
         ]
@@ -188,8 +184,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Enovone/Notes/Meetings/Sync Danilo - Shopify.md",
     "Enovone/Notes/Meetings/Chantal Sync - 2024-10-21.md",
+    "Enovone/Notes/Meetings/Sync Danilo - Shopify.md",
     "Enovone/Development/BLP Adds.md",
     "Enovone/Development/Medications Tech Plan.md",
     "Enovone/Development/Questionnaire - Enhancements.md",
